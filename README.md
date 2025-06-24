@@ -1,4 +1,4 @@
-![YouTube Banner - Malika Thaiyab](https://github.com/user-attachments/assets/0b5c4462-4b3a-4825-96d8-881f512c7a54)
+![YouTube Banner - Malika Thaiyab](https://github.com/user-attachments/assets/8fbe60c7-9182-49a1-b4bd-e15cc16d8406)
 
 # 💫 About Me:
 Hey there! 👋<br>I’m someone who genuinely loves turning ideas into code. Whether it’s building web apps, tinkering with blockchain, or just experimenting with new tech, I’m always up for a challenge. I believe the best projects come from curiosity and collaboration, so I’m always looking to learn from others and share what I know.<br>	•	🛠️ I mostly work with Rust, JavaScript, but I’m always excited to pick up something new.<br>	•	🌱 Right now, I’m diving into Solana and smart contract development—if you have tips or resources, let me know!<br>	•	🤝 I love open source and enjoy teaming up for hackathons or just fun side projects.<br>	•	💬 Outside of coding, I’m into coffee, sci-fi books, and long walks to clear my head.<br>If you want to chat about tech, collaborate, or just say hi, my inbox is always open. Thanks for stopping by! 🚀
@@ -28,8 +28,10 @@ Hey there! 👋<br>I’m someone who genuinely loves turning ideas into code. Wh
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![YouTube Banner - Thank You for Exploring](https://github.com/user-attachments/assets/2164ef92-9c25-4d6d-aec0-7c21b0584a8d)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tothemoon023&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
