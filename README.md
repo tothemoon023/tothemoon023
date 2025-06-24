@@ -1,3 +1,5 @@
+![YouTube Banner - Malika Thaiyab](https://github.com/user-attachments/assets/0b5c4462-4b3a-4825-96d8-881f512c7a54)
+
 # 💫 About Me:
 Hey there! 👋<br>I’m someone who genuinely loves turning ideas into code. Whether it’s building web apps, tinkering with blockchain, or just experimenting with new tech, I’m always up for a challenge. I believe the best projects come from curiosity and collaboration, so I’m always looking to learn from others and share what I know.<br>	•	🛠️ I mostly work with Rust, JavaScript, but I’m always excited to pick up something new.<br>	•	🌱 Right now, I’m diving into Solana and smart contract development—if you have tips or resources, let me know!<br>	•	🤝 I love open source and enjoy teaming up for hackathons or just fun side projects.<br>	•	💬 Outside of coding, I’m into coffee, sci-fi books, and long walks to clear my head.<br>If you want to chat about tech, collaborate, or just say hi, my inbox is always open. Thanks for stopping by! 🚀
 
